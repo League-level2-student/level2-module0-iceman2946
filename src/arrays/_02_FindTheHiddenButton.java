@@ -82,7 +82,7 @@ public class _02_FindTheHiddenButton implements ActionListener{
 		}
 		//18. else tell them to try again
 		else {
-			JOptionPane.showMessageDialog("Try again");
+			JOptionPane.showMessageDialog(null,"Try again");
 		}
 	}
 }
